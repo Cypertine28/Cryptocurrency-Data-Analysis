@@ -4,18 +4,6 @@ CONTENTS OF THIS FILE
  * Pre-requisites
  * Running the code files
  * Outputs
- * Contact Details
-
-
-INTRODUCTION
-------------------------
-Group No. 21
-Members:
-Abhishek Dnyaneshwar Revskar (21111003)
-Akash Gajanan Panzade (21111006)
-Ashitosh Vankatrao More (21111017)
-Mayuresh Diwakar Shandilya (21111041)
-Prajwal Pradiprao Thakare (21111047)
 
 PRE-REQUISITES
 ------------------------
