@@ -10,7 +10,7 @@ PRE-REQUISITES
 All the code files are coded using Python (Version 3.9.2). We have used the following libraries in our code:
 (1)Pandas
 (2)Numpy
-(3)Matplotlib
+(3)Matplotlib 
 (4)Plotly
 (5)Quandl
 (6)Pandas_datareader
